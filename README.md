@@ -2,7 +2,7 @@
 
 💡 Esse projeto tem como objetivo demonstrar conhecimentos iniciais em relação a Testes de API com cypress. Ele não teve como objetivo explorar todos os cenários de testes possíveis da API escolhida, mas sim focar em alguns poucos cenários de forma a treinar os conhecimentos adquiridos nessa jornada de evolução com o Cypress.
 
-# Link da API alvo: https://api.restful-api.dev
+# Link da API alvo: https://restful-api.dev/
 
 -- Seguem algumas informações do projeto:
 
