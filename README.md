@@ -22,11 +22,10 @@
 
 3. Acesse a pasta onde clonou o repositório via terminal;
 
-4. Execute os seguintes comandos para instalar o Cypress:
+4. Execute o seguinte comando para instalar as dependências do projeto:
 
-    * npm install init;
-    * npm i cypress@13.5.0 -D
-      
+    * npm install
+    
 5. Execute o seguinte comando para abrir o Cypress:
 
     * npx cypress open
